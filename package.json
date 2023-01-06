@@ -1,0 +1,24 @@
+{
+  "name": "heroku_karpachoff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cookies": "^0.8.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "fs-extra": "^11.1.0",
+    "jws": "^4.0.0",
+    "mongoose": "^6.8.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20",
+    "page-flip": "^2.0.7"
+  }
+}
